@@ -103,6 +103,54 @@ dengan internet dan memiliki web browser.
 
 2.5 Batasan Desain dan Implementasi
 
+3. Kebutuhan Antar Muka Eksternal
+
+3.1 Antarmuka Pengguna
+Pada Sistem informasi ini desain antar mukanya seperti berikut
+1. halaman login, tampilan halaman login pada sistem informasi ini dapat dilihat pada halaman 
+https://github.com/novanfarhandih/ADS_10_C/blob/master/halaman%20login.PNG
+untuk menggunakan sistem informasi ini pengguna login terlebih dahulu.
+2. halaman utama seller, ini merupakan halaman utama setelah pengguna melakukan login. gambar dari halaman ini dapat dilihat pada link dibawah
+https://github.com/novanfarhandih/ADS_10_C/blob/master/halaman%20utama%20seller.PNG
+pada halaman ini seller dapat memilih menu yang ada dihalaman
+3. halaman upload produk, tampilan halaman upload produk dapat dilihat pada gambar
+https://github.com/novanfarhandih/ADS_10_C/blob/master/halaman%20upload%20produk.PNG
+pada halaman ini seller dapat mengupload produk yang akan dipromosikan.
+4. halaman tampilkan influencer, tampilan halaman tampilkan influencer dapat dilihat pada gambar
+https://github.com/novanfarhandih/ADS_10_C/blob/master/halaman%20tampilan%20influencer.PNG
+pada halaman ini seller dapat memilih influencer mana yang cocok dengan produk yang akan dipromosikan. bisa juga memilih influencer yang memiliki 
+rating tinggi
+5. halaman booking, tampilan halaman booking dapat dilihat pada gambar
+https://github.com/novanfarhandih/ADS_10_C/blob/master/halaman%20booking.PNG
+pada halaman ini seller melakukan transaksi booking jadwal promosi produk.
+6. halaman request influencer, tampilan halaman ini dapat dilihat pada gambar
+https://github.com/novanfarhandih/ADS_10_C/blob/master/halaman%20request%20influencer.PNG
+pada halaman ini influencer dapat melihat informasi pemesanan promosi barang.
+7. halaman kalemder influencer, tampilan halaman ini dapat dilihat pada gambar
+https://github.com/novanfarhandih/ADS_10_C/blob/master/halaman%20kalender%20influencer.PNG
+pada halaman ini influencer dapat melihat jadwal promosi produk yang harus dilakukan.
+8. halaman galery influencer, tampilan halaman ini dapat dilihat pada gambar
+https://github.com/novanfarhandih/ADS_10_C/blob/master/halaman%20galeri%20influencer.PNG
+pada halaman ini influencer dapat
+
+
+3.2	Antarmuka Perangkat Keras
+Antarmuka perangkat keras yang digunakan untuk mengoprasikan perangkat lunak antara lain :
+1. Desktop
+2. Smartphone
+
+3.3	Antarmuka Perangkat Lunak
+Antarmuka perangkat lunak yang digunakan untuk mengoprasikan perangkat lunak antara lain :
+1. Web Browser
+2. Android
+3. Windows
+
+3.4	Antarmuka Komunikasi
+Antarmuka komunikasi yang digunakan untuk mengoprasikan perangkat lunak antara lain :
+1. Koneksi internet
+
+
+
 
 
 
